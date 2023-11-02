@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#ignore zipped data
+zippedData.zip
 # C extensions
 *.so
 
